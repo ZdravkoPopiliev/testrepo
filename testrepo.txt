@@ -1,3 +1,3 @@
-Versiq: main
-ekip: az
-123 
+Versiq: tb1
+ekip: 2
+123456
